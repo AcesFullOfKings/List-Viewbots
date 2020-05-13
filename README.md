@@ -8,7 +8,7 @@ The config.txt file may be edited to alter the Twitch channel from which the vie
     threshold=x
     channel=x
 
-where x is the desired threshold/channel. If no config file is present, or if the lines inside it are badly formatted, the default values below will apply:
+where x is the desired threshold/channel. If no config file is present, or if the lines inside it are badly formatted or absent, the default values below will apply:
 
     threshold=75
     channel=valkia
