@@ -20,3 +20,5 @@ The python source is included, however as it requires python to be installed, th
 pyinstaller can be downloaded via:
 
 `pip install pyinstaller`
+
+or at https://www.pyinstaller.org/downloads.html
