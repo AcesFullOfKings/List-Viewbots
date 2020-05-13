@@ -1,0 +1,2 @@
+bound=75
+channel=valkia
